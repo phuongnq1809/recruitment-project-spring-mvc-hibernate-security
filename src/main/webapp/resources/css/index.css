@@ -1,0 +1,97 @@
+@media (min-width: 768px) {
+  .search-area {
+    width: 70%;
+  }
+}
+
+/* Ultilities */
+.title {
+  color: #007cb9;
+  font-size: 13px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+}
+
+.number {
+  font-weight: bold;
+  font-size: 15px;
+  color: #353333fd;
+  background-color: #ffc10749;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.header {
+  background: rgba(0, 124, 185, 1);
+  color: rgb(255, 255, 255);
+}
+
+.logo a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.main-banner {
+  background: linear-gradient(rgba(117, 203, 231, 0.4), rgba(0, 124, 185, 0.4)),
+    url("../images/banner.png") no-repeat;
+  height: 490px;
+  padding-top: 100px;
+}
+
+.search-area {
+  margin: 120px auto;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding: 16px;
+  display: block;
+  transition: all 0.25s ease-in-out;
+}
+
+.bg-top {
+  /* background-color: #f2f7ff; */
+  background-color: #e4faff;
+  background-image: url(../images/bg-top.png);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: contain;
+}
+
+.top4cats {
+  border: 1px solid #f3e8e0b2;
+  text-align: center;
+  background-color: #fafafa;
+}
+
+.top4cats:hover {
+  background-color: #ffc107a8;
+}
+
+.top4cats a {
+  text-decoration: none;
+  color: #007cb9;
+}
+
+.feature-home {
+  background: linear-gradient(to bottom, #75cbe7 0%, #007cb9 100%);
+}
+
+.feature-job {
+  background-color: #fafafa;
+  border-radius: 7px;
+  margin-top: 10px;
+}
+
+.job span {
+  font-size: 12px;
+  /*text-transform: uppercase;*/
+}
+
+.bg-footer {
+  background-color: #f2f7ff;
+  font-size: 14px;
+}

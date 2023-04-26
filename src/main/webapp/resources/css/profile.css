@@ -1,0 +1,38 @@
+/* Ultilities */
+a {
+  text-decoration: none;
+}
+
+.logo a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.header {
+  background: rgba(0, 124, 185, 1);
+  color: rgb(255, 255, 255);
+}
+
+.bg-main-title {
+  background: linear-gradient(to bottom, #75cbe7 0%, #007cb9 100%);
+}
+
+#img-input,
+#logo-input,
+#cv-input {
+  display: none;
+}
+
+.img-input, .cv-input {
+  font-weight: 600;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 5px;
+  padding: 7px 10px;
+  background-color: #0d6efd;
+}
+
+.bg-footer {
+  background-color: #f2f7ff;
+  font-size: 14px;
+}

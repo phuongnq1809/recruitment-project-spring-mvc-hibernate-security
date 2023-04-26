@@ -1,0 +1,24 @@
+/* Ultilities */
+.logo a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.header {
+  background: rgba(0, 124, 185, 1);
+  color: rgb(255, 255, 255);
+}
+
+.header a {
+	text-decoration: none;
+}
+
+.bg-main-title {
+  background: linear-gradient(to bottom, #75cbe7 0%, #007cb9 100%);
+}
+
+.bg-footer {
+  background-color: #f2f7ff;
+  font-size: 14px;
+}
