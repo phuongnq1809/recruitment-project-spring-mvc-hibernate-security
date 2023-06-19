@@ -1,5 +1,5 @@
 /*
-* Asm2 App Config
+* App Config
 */
 package phuongnq.prj321x.asm2.config;
 
