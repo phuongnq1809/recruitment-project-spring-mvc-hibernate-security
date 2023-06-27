@@ -1,3 +1,6 @@
+/*
+* Asm2 App Controller
+*/
 package phuongnq.prj321x.asm2.controller;
 
 import java.security.Principal;
