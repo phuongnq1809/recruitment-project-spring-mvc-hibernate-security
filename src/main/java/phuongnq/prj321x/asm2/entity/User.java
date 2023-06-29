@@ -1,3 +1,6 @@
+/*
+* User Entity
+*/
 package phuongnq.prj321x.asm2.entity;
 
 import javax.persistence.CascadeType;
